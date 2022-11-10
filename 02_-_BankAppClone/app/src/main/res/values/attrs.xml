@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LoginButton">
+        <attr name="name" format="string"/>
+        <attr name="initials" format="string"/>
+        <attr name="account" format="string"/>
+    </declare-styleable>
+</resources>

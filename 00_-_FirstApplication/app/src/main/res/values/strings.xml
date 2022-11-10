@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FirstApplication</string>
+    <string name="title_activity_second">Second Activity</string>
+    <string name="welcome_msg">Hello, %s.\nWelcome to this awesome App!</string>
+    <string name="error_msg">This field cannot be empty.</string>
+    <string name="label_input">Name:</string>
+    <string name="btn_apply">Apply</string>
+    <string name="btn_next">Next</string>
+    <string name="input_hint">Type your first name.</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
